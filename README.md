@@ -1,0 +1,2 @@
+dokuwiki-plugin-bootstrap-renderer
+==================================
