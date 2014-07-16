@@ -1,0 +1,7 @@
+base   vikonbootstraprendered
+author Kovács Vince
+email  vincekovacs@hotmail.com
+date   2014-07-07
+name   Renderer for ViKon Bootstrap 3.2 template
+desc   Render DokuWiki content
+url    http://dokuwiki.org/plugin:vikonbootstraprendered
